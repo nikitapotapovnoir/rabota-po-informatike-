@@ -1,0 +1,13 @@
+countrys = ["Russia", "Estonia", "Latvian", "England", "Lithuania"]
+print (countrys)
+print (sorted (countrys))
+print (sorted (countrys, reverse=True))
+countrys.reverse()
+print (countrys)
+countrys.reverse()
+print (countrys)
+countrys.sort()
+print (countrys)
+countrys.sort (reverse=True)
+print (countrys)
+input=raw_input()
